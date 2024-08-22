@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Estou gostando do curso de devops.<br>📚 Agora estou aprendendo sobre git.<br>🎯 ja vi sobre git, java, mysql, android studio, html, css, javascript e python mas ainda não trabalho com tecnologia<br>🎲 Fun fact: desculpe prof por não ter apresentado juntos com meus colegas, quando eles falas o que ja fizeram eu me sinto peixe fora d'agua rsrs</p>
+<p align="left">✨ Estou gostando do curso de devops.<br>📚 Agora estou aprendendo sobre git.<br>🎯 ja vi sobre git, java, mysql, android studio, html, css, javascript e python mas ainda não trabalho com tecnologia<br>🎲 Fun fact: desculpe prof por não ter apresentado juntos com meus colegas, quando eles falam o que ja fizeram, eu me sinto peixe fora d'agua rsrs</p>
 
 ###
 
